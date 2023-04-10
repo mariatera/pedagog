@@ -1,0 +1,26 @@
+#slider{
+	width: 40%;
+	height: 600px;
+	margin-top: 20%;
+	overflow: hidden;
+}
+
+#polosa {
+	width: 5000px;
+	position: relative;
+	left: 0;
+	transition: all ease 2s;
+}
+
+#polosa img{
+	float: left;
+margin-right: 5%;
+margin-left: 2%;
+}
+
+#polosa::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+

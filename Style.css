@@ -1,0 +1,173 @@
+body {
+}
+
+@font-face { 
+    font-family: "GerberaLight";
+    src: url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.eot");
+    src: url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.eot?#iefix")format("embedded-opentype"),
+    url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.woff") format("woff"),
+    url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+
+#oval
+{
+    position: absolute;
+    top: 0;
+}
+
+.img_oval {
+    top: 0;
+}
+
+.img_books {
+    margin-top: 30%;
+}
+
+.img_books_1 {
+    margin-top: 5%;
+}
+.img_books_0 {
+float: left;
+margin-left: 7%;
+ margin-top: 30%;
+}
+
+.img_books_01 {
+float: left;
+margin-left: 7%;
+ margin-top: 5%;
+}
+
+
+.img_books_0:hover
+{
+  box-shadow:
+    1px 1px #b3b3b3,
+    2px 2px #b3b3b3,
+    3px 3px #b3b3b3,
+    4px 4px #b3b3b3,
+    5px 5px #b3b3b3,
+    6px 6px #b3b3b3,
+    7px 7px #b3b3b3,
+8px 8px #b3b3b3,
+9px 9px #b3b3b3,
+10px 10px #b3b3b3;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+transition: all 0.3s ease;
+}
+
+
+.img_books_01:hover
+{
+box-shadow:
+    1px 1px #b3b3b3,
+    2px 2px #b3b3b3,
+    3px 3px #b3b3b3,
+    4px 4px #b3b3b3,
+    5px 5px #b3b3b3,
+    6px 6px #b3b3b3,
+    7px 7px #b3b3b3,
+8px 8px #b3b3b3,
+9px 9px #b3b3b3,
+10px 10px #b3b3b3;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+transition: all 0.3s ease;
+}
+
+
+.img_books:hover
+{
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+transition: all 0.3s ease;
+}
+
+.img_books_1:hover
+{
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+transition: all 0.3s ease;
+}
+
+
+
+
+.page_autor
+{
+margin-left: 10%;
+ margin-top: 30%;}
+
+.text_1 {
+    text-align: center;
+    font-weight: 900;
+    letter-spacing: -2.2px;
+    text-align: center;
+margin-top: -25%;
+font-family: Montserrat,sans-serif;
+font-size: 1.5em;
+}
+
+.fancy 
+{ 
+font-family: GerberaLight;
+text-align: center;
+padding: 5% 20% 5% 20%;
+text-align: justify;
+}
+
+.fancy_1
+{ 
+font-family: GerberaLight;
+text-align: center;
+color: black;
+}
+
+.lovely 
+{ 
+font-size: 2em;
+font-family: GerberaLight;
+text-align: center;
+text-align: justify;
+margin-right: 35%;
+margin-left: 35%;
+}
+
+.lovely_end
+{ 
+font-size: 2em;
+font-family: GerberaLight;
+text-align: right;
+margin-right: 35%;
+margin-left: 35%;
+margin-bottom: 20%;
+}
+
+.opisanie
+{ 
+font-size: 2em;
+font-family: GerberaLight;
+text-align: justify;
+margin-right: 10%;
+margin-left: 50%;
+float: right;
+margin-top: -40%;
+}
+
+.anote
+{ 
+font-size: 1.5em;
+font-family: GerberaLight;
+text-align: justify;
+margin-right: 10%;
+margin-left: 10%;
+margin-top: 5%;
+}
+
+
+
