@@ -6,7 +6,6 @@ body {
     font-family: "GerberaLight";
     src: url("../fonts/GerberaLight.eot");
     src: url("../fonts/GerberaLight.eot?#iefix")format("embedded-opentype"),
-    url("../fonts/GerberaLight.woff") format("woff"),
     font-style: normal;
     font-weight: 300;
 }
