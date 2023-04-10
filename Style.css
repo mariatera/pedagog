@@ -6,8 +6,8 @@ body {
     font-family: "GerberaLight";
     src: url("GerberaLight.eot");
     src: url("GerberaLight.eot?#iefix")format("embedded-opentype"),
-    url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.woff") format("woff"),
-    url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.ttf") format("truetype");
+    url("GerberaLight.woff") format("woff"),
+    url("GerberaLight.ttf") format("truetype");
     font-style: normal;
     font-weight: 300;
 }
