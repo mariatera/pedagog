@@ -4,8 +4,8 @@ body {
 
 @font-face { 
     font-family: "GerberaLight";
-    src: url("/fonts/GerberaLight.woff");
-    src: url("/fonts/GerberaLight.woff?#iefix")format("embedded-opentype"),
+    src: url("/pedagog.github.io//fonts/GerberaLight.woff");
+    src: url("/pedagog.github.io//fonts/GerberaLight.woff?#iefix")format("embedded-opentype"),
     font-style: normal;
     font-weight: 300;
 }
