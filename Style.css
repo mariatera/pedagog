@@ -1,11 +1,12 @@
 body {
-    font-family: Roboto;
 }
 
 @font-face { 
     font-family: "GerberaLight";
-    src: url("/pedagog.github.io//fonts/GerberaLight.woff");
-    src: url("/pedagog.github.io//fonts/GerberaLight.woff?#iefix")format("embedded-opentype"),
+    src: url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.eot");
+    src: url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.eot?#iefix")format("embedded-opentype"),
+    url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.woff") format("woff"),
+    url("/home/biblio/Документы/Работа/Веб ресурс/Год педагога/fonts/GerberaLight.ttf") format("truetype");
     font-style: normal;
     font-weight: 300;
 }
@@ -31,12 +32,14 @@ body {
 float: left;
 margin-left: 7%;
  margin-top: 30%;
+display: flex;
 }
 
 .img_books_01 {
 float: left;
 margin-left: 7%;
  margin-top: 5%;
+display: flex;
 }
 
 
@@ -168,5 +171,15 @@ margin-left: 10%;
 margin-top: 5%;
 }
 
+.polosa {
+    justify-content: center;
+    background-color: #45a1ff;
+    color: #fff;
+width: 98%;
+  display: flex;
+position: absolute;
+margin-top: 80%;
+
+}
 
 
