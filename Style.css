@@ -15,6 +15,12 @@ body {
 {
     position: absolute;
     top: 0;
+    margin:0 auto;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .img_oval {
@@ -171,16 +177,3 @@ margin-right: 10%;
 margin-left: 10%;
 margin-top: 5%;
 }
-
-.polosa {
-    justify-content: center;
-    background-color: #45a1ff;
-    color: #fff;
-width: 368px;
-  display: flex;
-position: absolute;
-margin-top: 80%;
-
-}
-
-
