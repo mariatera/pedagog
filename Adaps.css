@@ -6,9 +6,9 @@
 }
 
 #polosa {
-	width: 1000%;
+	width: 800%;
 	position: relative;
-	left: 0;
+	left: 10%;
 	transition: all ease 2s;
 }
 
