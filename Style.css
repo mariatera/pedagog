@@ -179,7 +179,13 @@ margin-top: 5%;
 }
 
 .pod{
-    width: 100%;
     color: blue;
     text-align: center;
+    justify-content: center;
+    background-color: #45a1ff;
+    color: #fff;
+width: 98%;
+  display: flex;
+position: absolute;
+margin-top: 80%;
 }
